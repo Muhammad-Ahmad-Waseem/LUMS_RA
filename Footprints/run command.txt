@@ -1,0 +1,1 @@
+python segmentation_DeepLabV3plus.py --data_dir "D:\LUMS_RA\Seg_data" --output_dir "D:\LUMS_RA\Models\Segmentation\trained_model\DeepLabV3+\Footprints2" -m t

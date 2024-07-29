@@ -1,0 +1,5 @@
+use following env:
+conda activate solaris
+
+Usage:
+python code.py --refernce_tiff "D://LUMS_RA//Marking_Areas (Non DHA)//Area5_Hamza//area_combined_image.tif" --input_image "D://LUMS_RA//area_combined_image_preds.png" --output_dir "D://LUMS_RA"

@@ -1,0 +1,6 @@
+imageID,iou_field,TruePos,FalsePos,FalseNeg,Precision,Recall,F1Score,AOI
+img3,iou_score,1,0,0,1.0,1.0,1.0,
+img1,iou_score,196,0,1,1.0,0.9949238578680203,0.9974554707379135,
+img2,iou_score,1,0,0,1.0,1.0,1.0,
+img4,iou_score,1,0,0,1.0,1.0,1.0,
+img5,iou_score,1,0,0,1.0,1.0,1.0,
