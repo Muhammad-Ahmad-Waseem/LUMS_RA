@@ -1,0 +1,23 @@
+Requirement already satisfied: albumentations in c:\users\m_waseem\miniconda3\envs\solaris\lib\site-packages (0.4.3)
+Collecting albumentations
+  Using cached albumentations-1.1.0-py3-none-any.whl (102 kB)
+Requirement already satisfied: scikit-image>=0.16.1 in c:\users\m_waseem\miniconda3\envs\solaris\lib\site-packages (from albumentations) (0.19.2)
+Requirement already satisfied: scipy in c:\users\m_waseem\miniconda3\envs\solaris\lib\site-packages (from albumentations) (1.7.3)
+Collecting qudida>=0.0.4
+  Using cached qudida-0.0.4-py3-none-any.whl (3.5 kB)
+Requirement already satisfied: PyYAML in c:\users\m_waseem\miniconda3\envs\solaris\lib\site-packages (from albumentations) (5.2)
+Requirement already satisfied: opencv-python-headless>=4.1.1 in c:\users\m_waseem\miniconda3\envs\solaris\lib\site-packages (from albumentations) (4.5.5.64)
+Requirement already satisfied: numpy>=1.11.1 in c:\users\m_waseem\miniconda3\envs\solaris\lib\site-packages (from albumentations) (1.19.3)
+Requirement already satisfied: scikit-learn>=0.19.1 in c:\users\m_waseem\miniconda3\envs\solaris\lib\site-packages (from qudida>=0.0.4->albumentations) (1.0.2)
+Requirement already satisfied: typing-extensions in c:\users\m_waseem\miniconda3\envs\solaris\lib\site-packages (from qudida>=0.0.4->albumentations) (4.1.1)
+Requirement already satisfied: PyWavelets>=1.1.1 in c:\users\m_waseem\miniconda3\envs\solaris\lib\site-packages (from scikit-image>=0.16.1->albumentations) (1.3.0)
+Requirement already satisfied: packaging>=20.0 in c:\users\m_waseem\miniconda3\envs\solaris\lib\site-packages (from scikit-image>=0.16.1->albumentations) (21.3)
+Requirement already satisfied: tifffile>=2019.7.26 in c:\users\m_waseem\miniconda3\envs\solaris\lib\site-packages (from scikit-image>=0.16.1->albumentations) (2020.6.3)
+Requirement already satisfied: networkx>=2.2 in c:\users\m_waseem\miniconda3\envs\solaris\lib\site-packages (from scikit-image>=0.16.1->albumentations) (2.7.1)
+Requirement already satisfied: imageio>=2.4.1 in c:\users\m_waseem\miniconda3\envs\solaris\lib\site-packages (from scikit-image>=0.16.1->albumentations) (2.13.1)
+Requirement already satisfied: pillow!=7.1.0,!=7.1.1,!=8.3.0,>=6.1.0 in c:\users\m_waseem\miniconda3\envs\solaris\lib\site-packages (from scikit-image>=0.16.1->albumentations) (9.1.0)
+Requirement already satisfied: pyparsing!=3.0.5,>=2.0.2 in c:\users\m_waseem\miniconda3\envs\solaris\lib\site-packages (from packaging>=20.0->scikit-image>=0.16.1->albumentations) (3.0.7)
+Requirement already satisfied: joblib>=0.11 in c:\users\m_waseem\miniconda3\envs\solaris\lib\site-packages (from scikit-learn>=0.19.1->qudida>=0.0.4->albumentations) (1.1.0)
+Requirement already satisfied: threadpoolctl>=2.0.0 in c:\users\m_waseem\miniconda3\envs\solaris\lib\site-packages (from scikit-learn>=0.19.1->qudida>=0.0.4->albumentations) (3.1.0)
+Installing collected packages: qudida, albumentations
+Successfully installed albumentations-1.1.0 qudida-0.0.4

@@ -1,0 +1,1 @@
+sh run_eval_pipeline.sh "D:\LUMS_RA\Python Codes\PostProcess\SN7_methods\test" "D:\LUMS_RA\Models\Segmentation\trained_model\DeepLabV3+\Footprints"
