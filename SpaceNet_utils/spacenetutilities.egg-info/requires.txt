@@ -1,0 +1,9 @@
+geopandas
+numpy
+rtree
+scipy
+osmnx
+affine
+tqdm
+rasterio>=1.0a9
+pillow

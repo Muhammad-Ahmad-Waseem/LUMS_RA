@@ -1,0 +1,17 @@
+numpy
+pandas
+rtree
+shapely
+fiona
+geopandas
+rasterio>=1.0a9
+scipy
+pillow
+tqdm
+affine
+pyproj
+osmnx
+centerline
+
+
+
