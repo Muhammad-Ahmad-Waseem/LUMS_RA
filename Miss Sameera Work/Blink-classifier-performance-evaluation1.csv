@@ -1,0 +1,7 @@
+,Accuracy,Precision,Recall
+Logistic Regression,0.7,0.7,0.7
+Support Vector Machines,0.6666666666666666,0.6666666666666666,0.6666666666666666
+Decision Trees,0.6,0.6,0.6
+Random Forest,0.5,0.5,0.5
+Naive Bayes,0.5,0.5,0.5
+K-Nearest Neighbor,0.6666666666666666,0.6666666666666666,0.6666666666666666
