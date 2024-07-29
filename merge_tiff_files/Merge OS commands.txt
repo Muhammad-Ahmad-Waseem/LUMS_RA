@@ -1,0 +1,2 @@
+gdalbuildvrt mosaic.vrt c:\data\....\*.tif
+gdal_translate -of GTiff -co "COMPRESS=JPEG" -co "PHOTOMETRIC=YCBCR" -co "TILED=YES" mosaic.vrt mosaic.tif
